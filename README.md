@@ -102,7 +102,7 @@ Relevant courses: Machine Learning · Deep Learning · NLP · Data Warehousing �
 
 <div align="center">
 
-![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minato-sudo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minato-sudo&show_icons=true&theme=tokyonight&hide_border=true)
 &nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minato-sudo&layout=compact&theme=tokyonight&hide_border=true)
 
