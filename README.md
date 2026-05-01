@@ -62,6 +62,8 @@ I'm a Data Scientist and AI/ML Engineer based in **Islamabad, Pakistan**, curren
 | ✅ **[Taskify](https://github.com/Minato-sudo)** | Task management app with scheduling, prioritization, and deadline tracking. | C# · Application Dev |
 | 🚗 **[Traffic & Game Systems](https://github.com/Minato-sudo)** | Simulated traffic congestion algorithms and a game data management system. | C++ · Systems Programming |
 | 🤖 **[Multilingual Image Generation (KDD Lab)](https://github.com/Minato-sudo)** | Custom XLMRCLIPEncoder for multilingual Stable Diffusion. Trained on COCO & Multi30k at 256×256 on A100 GPUs. | Python · PyTorch · NLP · Diffusion Models |
+| 🎨 **[DDPM Reproducibility & Optimization](https://github.com/Minato-sudo/deeplearning-assignment2)** | Inference-time optimization of Denoising Diffusion Probabilistic Models on CIFAR-10. Identified optimal quality at 200 steps with a 5x efficiency gain. | Python · PyTorch · Diffusers · DDIM |
+| 📰 **[Event-Centric News Clustering](https://github.com/Minato-sudo)** | Parallelized NLP pipeline for news clustering and summarization. 1.7x CPU speedup for embedding 10k articles and CUDA-accelerated BART summarization. | Python · Multiprocessing · Transformers · scikit-learn |
 
 ---
 
